@@ -7,8 +7,11 @@
 
 <h2 align="center" id="about"> Sobre el repositorio </h2>
 
-<center>Este proyecto crea un ejemplo de un login</center>
+<center>Este proyecto crea un ejemplo de un login
 
+El enlace directo al [Login](aaronf11.github.io/login/)
+
+</center>
 <hr>
 
 ## 💻 Tecnologias 
