@@ -9,7 +9,9 @@
 
 <center>Este proyecto crea un ejemplo de un login
 
-El enlace directo al [Login](aaronf11.github.io/login/)
+El enlace directo al [Login](https://aaronf11.github.io/Login/)
+
+![](src\image\site.png)
 
 </center>
 <hr>
