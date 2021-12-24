@@ -11,9 +11,12 @@
 
 El enlace directo al [Login](https://aaronf11.github.io/Login/)
 
-![](src/image/site.png)
-
 </center>
+
+<hr>
+
+![](src/image/Site.png)
+
 <hr>
 
 ## 💻 Tecnologias 
