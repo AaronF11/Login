@@ -1,7 +1,66 @@
-body{
-    background-color: aqua;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-h1{
+body {
+    background-image: url(/src/image/background.jpg);
+    background-size: 100%;
+}
+
+.form h3 {
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: 'pacifico', cursive;
+}
+
+.form {
+    color: white;
+    width: 400px;
+    background-color: #3500FF;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: 'pacifico', cursive;
+    box-shadow: 10px 15px 40px #1f53c5;
+}
+
+.controls {
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 18px;
+    border: 1px solid #1f53c5;
+    font-family: 'pacifico', cursive;
+    font-size: 16px;
+}
+
+.form p {
+    height: 40px;
     text-align: center;
+    font-size: 16px;
+}
+
+.form a {
+    color: white;
+    text-decoration: none;
+}
+
+.form a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.form .button {
+    width: 100%;
+    background: #1f53c5;
+    border: none;
+    padding: 14px;
+    color: white;
+    margin: 18px 0;
+    font-size: 16px;
+    font-family: 'pacifico', cursive;
 }
